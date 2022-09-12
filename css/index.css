@@ -28,6 +28,14 @@ title{
     font-weight: bold;
     margin-right: 1.7rem; 
 }
+.Nav-opt > a{
+ text-decoration: none;
+ color: white; 
+ cursor: pointer; 
+}
+.Nav-opt > a:hover{
+    font-size: larger;
+}
 
 @media only screen and (min-width: 300px) and (max-width: 600px){
     .Nav-opt{
